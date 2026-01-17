@@ -1,0 +1,101 @@
+Name,Designation,Department,Email,Address,Marriage,DOB,ID_Proof,ID_Number,Gender,Country,DOJ,Salary,Phone
+Ananya Patel,Intern,Operations,ananya.patel0@nanopulse.com,"Flat 16, Street 49, City 4",Married,1988-12-02,Passport,ID1000,Male,India,2018-04-21,822190,6620588273
+Ishaan Verma,Software Engineer,Admin,ishaan.verma1@nanopulse.com,"Flat 43, Street 11, City 17",Unmarried,1992-09-24,Passport,ID1001,Male,Canada,2020-08-21,1235113,6133175533
+Ananya Nair,Senior Software Engineer,Finance,ananya.nair2@nanopulse.com,"Flat 42, Street 13, City 8",Married,1989-04-01,Passport,ID1002,Male,Canada,2024-05-21,1020233,6723429026
+Ritika Iyer,Software Engineer,HR,ritika.iyer3@nanopulse.com,"Flat 21, Street 85, City 10",Unmarried,1995-07-16,Aadhar,ID1003,Female,India,2024-12-09,1047140,5621276666
+Rohan Nair,Team Lead,Finance,rohan.nair4@nanopulse.com,"Flat 6, Street 69, City 15",Married,1988-06-01,PAN,ID1004,Female,India,2015-02-15,1170793,5957646138
+Varun Khan,HR Executive,Operations,varun.khan5@nanopulse.com,"Flat 12, Street 71, City 11",Married,2003-08-05,PAN,ID1005,Female,India,2020-07-07,1479717,5200652685
+Neha Nair,Data Analyst,IT,neha.nair6@nanopulse.com,"Flat 19, Street 83, City 13",Married,2001-11-16,Aadhar,ID1006,Female,Australia,2017-06-24,1039193,7297757896
+Ishaan Joshi,Senior Software Engineer,IT,ishaan.joshi7@nanopulse.com,"Flat 24, Street 17, City 11",Unmarried,1990-09-25,Passport,ID1007,Female,UK,2019-08-26,394605,7548124462
+Ritika Iyer,HR Executive,Finance,ritika.iyer8@nanopulse.com,"Flat 31, Street 87, City 15",Unmarried,1997-05-07,PAN,ID1008,Male,USA,2015-08-27,1460607,6688517572
+Sonal Joshi,Manager,Marketing,sonal.joshi9@nanopulse.com,"Flat 47, Street 89, City 8",Unmarried,1993-10-14,Aadhar,ID1009,Female,India,2024-01-30,779501,5799786463
+Ritika Joshi,Senior Software Engineer,IT,ritika.joshi10@nanopulse.com,"Flat 15, Street 27, City 10",Unmarried,1986-09-11,PAN,ID1010,Female,India,2022-09-30,652465,5859901328
+Amit Gupta,Software Engineer,Operations,amit.gupta11@nanopulse.com,"Flat 19, Street 90, City 2",Unmarried,1997-11-02,Aadhar,ID1011,Female,Australia,2024-08-18,1493427,6102567600
+Ananya Mehta,Software Engineer,HR,ananya.mehta12@nanopulse.com,"Flat 6, Street 32, City 9",Unmarried,1994-02-06,Aadhar,ID1012,Male,USA,2021-05-21,1393791,6775917656
+Siddharth Nair,Senior Software Engineer,HR,siddharth.nair13@nanopulse.com,"Flat 31, Street 40, City 6",Married,1997-03-02,PAN,ID1013,Female,Canada,2020-11-03,398100,5190379611
+Ishaan Khan,Team Lead,IT,ishaan.khan14@nanopulse.com,"Flat 46, Street 78, City 14",Married,1990-09-29,Aadhar,ID1014,Male,Canada,2020-12-14,844970,7738599567
+Kunal Joshi,Team Lead,HR,kunal.joshi15@nanopulse.com,"Flat 24, Street 45, City 16",Unmarried,1987-01-28,Passport,ID1015,Female,India,2017-08-08,1232726,6838664397
+Diya Iyer,Data Analyst,Admin,diya.iyer16@nanopulse.com,"Flat 24, Street 37, City 4",Unmarried,1991-01-24,Aadhar,ID1016,Male,Australia,2018-01-26,1264226,6409011928
+Nikhil Patel,Intern,HR,nikhil.patel17@nanopulse.com,"Flat 36, Street 73, City 18",Unmarried,2003-07-13,Passport,ID1017,Male,USA,2022-05-09,640200,5388075760
+Rohan Mehta,Manager,Operations,rohan.mehta18@nanopulse.com,"Flat 20, Street 46, City 11",Unmarried,1995-12-22,PAN,ID1018,Female,Australia,2021-02-04,909590,6849631813
+Ananya Singh,Senior Software Engineer,IT,ananya.singh19@nanopulse.com,"Flat 5, Street 43, City 13",Unmarried,1996-05-11,PAN,ID1019,Female,UK,2022-07-04,325259,6881875646
+Aarav Sharma,Intern,HR,aarav.sharma20@nanopulse.com,"Flat 6, Street 76, City 1",Married,1994-02-18,PAN,ID1020,Male,Canada,2024-01-13,451987,7971786742
+Aarav Sharma,Software Engineer,Admin,aarav.sharma21@nanopulse.com,"Flat 34, Street 26, City 17",Married,1986-11-02,PAN,ID1021,Male,Australia,2024-09-08,524208,6770456540
+Amit Mehta,Senior Software Engineer,Operations,amit.mehta22@nanopulse.com,"Flat 3, Street 52, City 11",Married,1985-12-09,Aadhar,ID1022,Male,USA,2016-04-01,1132427,7330429271
+Vivaan Joshi,Manager,Marketing,vivaan.joshi23@nanopulse.com,"Flat 27, Street 32, City 6",Married,1998-08-05,Aadhar,ID1023,Male,USA,2022-04-21,747216,7678578988
+Rahul Verma,Data Analyst,Admin,rahul.verma24@nanopulse.com,"Flat 14, Street 19, City 9",Married,1993-07-01,PAN,ID1024,Male,Australia,2021-12-29,1248606,5924483644
+Vivaan Singh,Team Lead,Operations,vivaan.singh25@nanopulse.com,"Flat 20, Street 1, City 17",Unmarried,1998-11-23,Passport,ID1025,Male,Australia,2019-08-10,1058150,6553585933
+Kunal Sharma,Team Lead,Finance,kunal.sharma26@nanopulse.com,"Flat 24, Street 21, City 17",Married,2000-03-03,Passport,ID1026,Female,UK,2023-09-22,846901,7629308878
+Siddharth Gupta,Senior Software Engineer,Finance,siddharth.gupta27@nanopulse.com,"Flat 23, Street 61, City 16",Unmarried,1988-05-09,Aadhar,ID1027,Male,USA,2018-06-12,715160,7641912814
+Rahul Singh,Data Analyst,Admin,rahul.singh28@nanopulse.com,"Flat 6, Street 8, City 13",Married,1997-07-11,PAN,ID1028,Female,India,2015-03-18,1181872,5275966351
+Ishaan Singh,Data Analyst,Operations,ishaan.singh29@nanopulse.com,"Flat 30, Street 58, City 20",Unmarried,2000-06-23,PAN,ID1029,Male,Canada,2016-05-06,1224531,6286436928
+Sonal Gupta,Intern,Marketing,sonal.gupta30@nanopulse.com,"Flat 10, Street 33, City 1",Unmarried,2000-03-18,Passport,ID1030,Male,Canada,2017-04-17,1335028,5908589376
+Nikhil Singh,HR Executive,HR,nikhil.singh31@nanopulse.com,"Flat 10, Street 15, City 4",Married,1991-12-08,Passport,ID1031,Male,Australia,2016-08-23,541132,6755491680
+Neha Mehta,Manager,Operations,neha.mehta32@nanopulse.com,"Flat 29, Street 88, City 1",Married,1988-10-01,PAN,ID1032,Female,Australia,2023-01-24,479238,5851207003
+Sonal Khan,Team Lead,Admin,sonal.khan33@nanopulse.com,"Flat 49, Street 52, City 14",Unmarried,1995-05-02,Aadhar,ID1033,Female,USA,2021-12-06,690136,7600093808
+Priya Verma,Software Engineer,Finance,priya.verma34@nanopulse.com,"Flat 15, Street 77, City 6",Unmarried,2002-12-21,PAN,ID1034,Male,UK,2016-01-05,677237,5962456337
+Ishaan Iyer,Data Analyst,IT,ishaan.iyer35@nanopulse.com,"Flat 5, Street 55, City 17",Unmarried,1995-10-31,Passport,ID1035,Male,Canada,2017-02-05,1109252,7888029413
+Aditya Joshi,Data Analyst,Operations,aditya.joshi36@nanopulse.com,"Flat 50, Street 33, City 15",Married,1985-02-07,Passport,ID1036,Male,Australia,2024-12-06,1377859,6140357545
+Sonal Gupta,Senior Software Engineer,Finance,sonal.gupta37@nanopulse.com,"Flat 24, Street 85, City 2",Married,1999-08-27,Aadhar,ID1037,Female,UK,2015-09-21,355142,6243950657
+Vivaan Sharma,Software Engineer,Marketing,vivaan.sharma38@nanopulse.com,"Flat 20, Street 87, City 6",Married,1988-05-15,PAN,ID1038,Female,India,2016-08-08,1330734,7221564537
+Siddharth Mehta,Senior Software Engineer,Operations,siddharth.mehta39@nanopulse.com,"Flat 35, Street 99, City 19",Unmarried,2002-06-14,Aadhar,ID1039,Male,India,2016-01-26,1392803,7368032990
+Aarav Gupta,Data Analyst,IT,aarav.gupta40@nanopulse.com,"Flat 25, Street 83, City 1",Married,1994-03-11,Passport,ID1040,Male,UK,2019-10-12,492765,7763731181
+Rahul Nair,HR Executive,Marketing,rahul.nair41@nanopulse.com,"Flat 33, Street 70, City 20",Married,1996-02-25,Aadhar,ID1041,Male,Canada,2020-08-07,923479,7105686420
+Ananya Khan,Intern,IT,ananya.khan42@nanopulse.com,"Flat 2, Street 64, City 8",Unmarried,1998-11-20,PAN,ID1042,Female,India,2016-05-06,436756,7917581190
+Aarav Mehta,Team Lead,Marketing,aarav.mehta43@nanopulse.com,"Flat 20, Street 3, City 5",Married,1999-06-08,Aadhar,ID1043,Male,USA,2017-12-16,952640,7528645709
+Ishaan Iyer,Software Engineer,HR,ishaan.iyer44@nanopulse.com,"Flat 22, Street 40, City 7",Unmarried,1985-03-27,Passport,ID1044,Female,Australia,2015-12-25,1016235,6363956118
+Kunal Patel,Team Lead,HR,kunal.patel45@nanopulse.com,"Flat 5, Street 24, City 5",Married,1991-03-16,Passport,ID1045,Female,UK,2018-04-26,1050683,5367076502
+Siddharth Mehta,Intern,Operations,siddharth.mehta46@nanopulse.com,"Flat 23, Street 9, City 5",Married,2000-03-03,Aadhar,ID1046,Male,USA,2017-03-23,594807,7782816831
+Varun Verma,HR Executive,IT,varun.verma47@nanopulse.com,"Flat 18, Street 67, City 8",Unmarried,1993-07-15,Passport,ID1047,Female,Canada,2021-11-01,379326,6841593503
+Siddharth Gupta,Manager,Finance,siddharth.gupta48@nanopulse.com,"Flat 39, Street 24, City 3",Married,2003-02-28,Aadhar,ID1048,Female,USA,2022-06-09,827281,5216714557
+Aarav Khan,Intern,Marketing,aarav.khan49@nanopulse.com,"Flat 34, Street 36, City 5",Married,1994-04-27,Passport,ID1049,Female,USA,2021-04-01,716953,7620066192
+Varun Gupta,Team Lead,IT,varun.gupta50@nanopulse.com,"Flat 30, Street 41, City 7",Unmarried,1986-11-19,Aadhar,ID1050,Male,Australia,2015-05-19,997196,7558553949
+Rahul Nair,HR Executive,Finance,rahul.nair51@nanopulse.com,"Flat 42, Street 99, City 9",Unmarried,1993-07-12,Aadhar,ID1051,Male,UK,2022-06-08,768005,6964912808
+Amit Mehta,Team Lead,IT,amit.mehta52@nanopulse.com,"Flat 21, Street 58, City 10",Married,1995-12-07,PAN,ID1052,Male,Australia,2018-03-08,542073,6472412905
+Ritika Khan,HR Executive,IT,ritika.khan53@nanopulse.com,"Flat 43, Street 86, City 8",Unmarried,1998-08-31,PAN,ID1053,Female,Australia,2018-11-07,1216561,5350454210
+Ananya Khan,Intern,HR,ananya.khan54@nanopulse.com,"Flat 13, Street 5, City 14",Married,2001-09-23,Aadhar,ID1054,Female,UK,2021-09-05,1274598,7650033204
+Kavya Khan,Intern,Operations,kavya.khan55@nanopulse.com,"Flat 19, Street 98, City 5",Married,1996-09-16,Aadhar,ID1055,Male,Australia,2015-01-05,458112,5361642125
+Varun Joshi,HR Executive,Admin,varun.joshi56@nanopulse.com,"Flat 47, Street 10, City 19",Married,1988-11-16,PAN,ID1056,Male,India,2017-01-22,1234690,7768930974
+Siddharth Singh,HR Executive,Finance,siddharth.singh57@nanopulse.com,"Flat 44, Street 33, City 14",Unmarried,1994-07-22,Aadhar,ID1057,Female,Australia,2017-04-18,1481749,7931700602
+Ananya Iyer,Intern,Marketing,ananya.iyer58@nanopulse.com,"Flat 28, Street 66, City 20",Unmarried,1988-03-14,PAN,ID1058,Female,USA,2015-12-06,817458,7502010752
+Diya Nair,HR Executive,Admin,diya.nair59@nanopulse.com,"Flat 16, Street 31, City 17",Married,1987-05-25,Aadhar,ID1059,Female,UK,2022-12-02,942745,5939582760
+Kavya Verma,Software Engineer,HR,kavya.verma60@nanopulse.com,"Flat 22, Street 75, City 19",Married,1994-03-21,Passport,ID1060,Male,Canada,2022-12-22,318044,6962042115
+Nikhil Khan,HR Executive,Operations,nikhil.khan61@nanopulse.com,"Flat 50, Street 44, City 12",Unmarried,2001-04-29,Aadhar,ID1061,Female,Canada,2015-07-05,755680,6219092210
+Pooja Verma,Data Analyst,HR,pooja.verma62@nanopulse.com,"Flat 28, Street 40, City 9",Unmarried,1994-04-13,Passport,ID1062,Female,India,2022-07-04,571198,6835431845
+Sonal Singh,HR Executive,Marketing,sonal.singh63@nanopulse.com,"Flat 6, Street 9, City 13",Unmarried,1990-07-03,Aadhar,ID1063,Female,UK,2015-10-10,1156390,7903212937
+Ananya Sharma,Manager,Marketing,ananya.sharma64@nanopulse.com,"Flat 29, Street 20, City 13",Married,1993-10-20,Passport,ID1064,Male,USA,2017-01-16,1470156,5929173258
+Ritika Iyer,Intern,Admin,ritika.iyer65@nanopulse.com,"Flat 28, Street 53, City 7",Married,1995-03-10,Passport,ID1065,Male,UK,2023-12-19,1412297,7269261242
+Pooja Sharma,Senior Software Engineer,Finance,pooja.sharma66@nanopulse.com,"Flat 10, Street 80, City 6",Married,1993-07-16,PAN,ID1066,Male,Canada,2024-11-26,607773,6419244780
+Ananya Khan,Intern,Finance,ananya.khan67@nanopulse.com,"Flat 9, Street 88, City 3",Married,1996-11-02,Aadhar,ID1067,Male,USA,2022-06-20,753562,7763773236
+Vivaan Mehta,Manager,Marketing,vivaan.mehta68@nanopulse.com,"Flat 44, Street 12, City 6",Married,1992-07-20,Aadhar,ID1068,Male,Canada,2021-08-13,358326,7658762030
+Amit Iyer,Intern,IT,amit.iyer69@nanopulse.com,"Flat 6, Street 36, City 19",Married,1989-08-11,Aadhar,ID1069,Male,UK,2018-05-07,1243000,5279527766
+Ritika Khan,Senior Software Engineer,Operations,ritika.khan70@nanopulse.com,"Flat 2, Street 97, City 16",Married,1989-04-02,Passport,ID1070,Male,Australia,2018-12-24,588205,6143036568
+Pooja Khan,Data Analyst,Finance,pooja.khan71@nanopulse.com,"Flat 1, Street 9, City 19",Unmarried,1997-02-23,Passport,ID1071,Female,India,2022-06-09,927979,5106767923
+Rohan Sharma,Manager,Marketing,rohan.sharma72@nanopulse.com,"Flat 48, Street 5, City 4",Married,2001-11-05,Passport,ID1072,Male,USA,2020-04-02,1240346,6711485519
+Siddharth Khan,Data Analyst,Finance,siddharth.khan73@nanopulse.com,"Flat 37, Street 11, City 17",Unmarried,1991-04-16,Passport,ID1073,Female,Australia,2015-01-10,843116,6743350055
+Ritika Patel,Data Analyst,Operations,ritika.patel74@nanopulse.com,"Flat 46, Street 68, City 6",Unmarried,1986-05-29,PAN,ID1074,Male,USA,2023-05-25,863653,7718280032
+Nikhil Verma,Senior Software Engineer,Finance,nikhil.verma75@nanopulse.com,"Flat 9, Street 3, City 15",Unmarried,2002-04-07,Aadhar,ID1075,Male,India,2015-04-18,664513,5604773594
+Priya Patel,Software Engineer,Finance,priya.patel76@nanopulse.com,"Flat 39, Street 73, City 17",Married,2003-06-28,Aadhar,ID1076,Female,UK,2023-12-01,783613,7898257404
+Nikhil Sharma,Manager,IT,nikhil.sharma77@nanopulse.com,"Flat 25, Street 49, City 2",Married,2000-06-18,Passport,ID1077,Male,UK,2019-07-27,564472,6901691850
+Neha Singh,Intern,IT,neha.singh78@nanopulse.com,"Flat 47, Street 2, City 3",Married,1996-06-26,Aadhar,ID1078,Male,India,2021-09-23,1048757,6558507536
+Aditya Nair,Manager,Operations,aditya.nair79@nanopulse.com,"Flat 16, Street 28, City 18",Married,1993-03-28,Aadhar,ID1079,Male,Canada,2019-01-11,934980,6866772462
+Pooja Joshi,Team Lead,Finance,pooja.joshi80@nanopulse.com,"Flat 44, Street 67, City 13",Unmarried,1993-12-02,Passport,ID1080,Female,Australia,2015-12-18,657537,6715399134
+Kunal Khan,Senior Software Engineer,Marketing,kunal.khan81@nanopulse.com,"Flat 1, Street 80, City 18",Married,2000-03-13,Aadhar,ID1081,Female,USA,2017-03-02,687401,5375616422
+Aarav Nair,Team Lead,Finance,aarav.nair82@nanopulse.com,"Flat 43, Street 90, City 20",Married,1986-12-25,Passport,ID1082,Male,Canada,2015-04-30,1173555,5313203953
+Siddharth Nair,Senior Software Engineer,Admin,siddharth.nair83@nanopulse.com,"Flat 14, Street 10, City 9",Married,2001-05-24,Aadhar,ID1083,Male,USA,2019-07-27,890994,5320437374
+Amit Nair,Intern,Finance,amit.nair84@nanopulse.com,"Flat 42, Street 90, City 14",Unmarried,1990-02-22,Passport,ID1084,Male,UK,2023-11-30,1009286,5986369168
+Ritika Singh,Intern,Admin,ritika.singh85@nanopulse.com,"Flat 48, Street 41, City 14",Unmarried,1987-09-23,Passport,ID1085,Male,UK,2018-01-29,1250317,7699069602
+Diya Nair,Team Lead,Marketing,diya.nair86@nanopulse.com,"Flat 37, Street 38, City 7",Married,1994-07-04,Passport,ID1086,Male,USA,2024-01-14,1118860,6371089125
+Rohan Khan,Team Lead,Marketing,rohan.khan87@nanopulse.com,"Flat 33, Street 78, City 1",Unmarried,1999-10-02,Passport,ID1087,Male,USA,2022-08-09,408363,6877123191
+Varun Sharma,Intern,IT,varun.sharma88@nanopulse.com,"Flat 43, Street 77, City 9",Unmarried,1988-06-11,Aadhar,ID1088,Female,Australia,2017-12-07,874829,6845116561
+Neha Khan,Intern,IT,neha.khan89@nanopulse.com,"Flat 10, Street 98, City 3",Married,1990-11-07,Passport,ID1089,Male,USA,2017-01-26,946954,6695291451
+Rahul Mehta,Intern,Admin,rahul.mehta90@nanopulse.com,"Flat 42, Street 69, City 17",Married,1987-09-01,Aadhar,ID1090,Male,Canada,2015-05-24,827469,5933738356
+Aditya Verma,Intern,HR,aditya.verma91@nanopulse.com,"Flat 33, Street 62, City 1",Unmarried,2000-05-08,Aadhar,ID1091,Female,UK,2017-07-18,527470,6128916814
+Kunal Patel,Team Lead,Finance,kunal.patel92@nanopulse.com,"Flat 38, Street 70, City 18",Married,1991-10-30,Passport,ID1092,Male,UK,2018-12-13,1344692,7175347962
+Kunal Joshi,Data Analyst,Admin,kunal.joshi93@nanopulse.com,"Flat 16, Street 34, City 10",Unmarried,1989-09-17,PAN,ID1093,Female,Canada,2021-11-12,1473360,5192366273
+Pooja Joshi,Data Analyst,Finance,pooja.joshi94@nanopulse.com,"Flat 11, Street 94, City 3",Married,2001-04-22,Aadhar,ID1094,Male,UK,2021-01-01,465216,5442076052
+Ishaan Khan,HR Executive,Marketing,ishaan.khan95@nanopulse.com,"Flat 39, Street 34, City 18",Married,2003-04-24,Passport,ID1095,Female,UK,2020-10-21,979798,6860840665
+Rohan Sharma,Data Analyst,Admin,rohan.sharma96@nanopulse.com,"Flat 6, Street 81, City 13",Unmarried,1985-03-08,Passport,ID1096,Female,India,2022-04-18,1231914,6370284682
+Varun Joshi,HR Executive,Admin,varun.joshi97@nanopulse.com,"Flat 8, Street 49, City 7",Married,1992-12-14,PAN,ID1097,Male,USA,2015-10-25,1315784,7357775278
+Diya Sharma,Team Lead,Finance,diya.sharma98@nanopulse.com,"Flat 28, Street 46, City 14",Unmarried,2002-08-01,Passport,ID1098,Male,Australia,2018-05-16,1104982,7642129459
+Kunal Gupta,Intern,Admin,kunal.gupta99@nanopulse.com,"Flat 13, Street 32, City 4",Unmarried,2001-07-12,Aadhar,ID1099,Female,Australia,2022-11-22,492689,5229030281
