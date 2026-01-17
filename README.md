@@ -57,6 +57,12 @@ The system is developed as a **Team Project under Team.XLR8** and focuses on sim
 ## Note
 - Keep the `assets` folder in the same directory as `main.py`
 - Update database credentials before running the project
+  
+---
+
+##  Data Disclaimer
+- The employee data used in this project is **sample / dummy data** created solely for demonstration and testing purposes.  
+- No real employee or company data is used in this project.
 
 ---
 
