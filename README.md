@@ -3,7 +3,7 @@
 The **Employee Management System** is a desktop-based application developed using Python and Tkinter, designed to efficiently manage employee records within an organization.  
 This project allows administrators to add, update, delete, search, and view employee details with a user-friendly graphical interface and a MySQL backend.
 
-The system is developed as a **Team Project under Team.XLR8** and focuses on simplicity, data accuracy, and real-world usability.
+The system is developed as a **Team Project under Team-XLR8** and focuses on simplicity, data accuracy, and real-world usability.
 
 ---
 
